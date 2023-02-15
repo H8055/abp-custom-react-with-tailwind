@@ -1,0 +1,41 @@
+.mainCon {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  background-color: #f4f5fa;
+  height: 100%;
+  overflow: hidden;
+  margin: 0 auto !important;
+}
+
+.mainCon .section1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 100vh !important;
+}
+
+.mainCon .section2 {
+  width: 100% !important;
+  height: 100%;
+}
+
+.mainCon .section2 .mainContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-top: 1rem;
+}
+/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,KAAK,EAAE,IAAI;CAOZ;;AARD,AAEE,WAFS,CAET,MAAM,CAAC;EACL,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,WAAW,EAAE,MAAM;EACnB,cAAc,EAAE,GAAG;CACpB",
+    "sources": [
+        "tenants.scss"
+    ],
+    "names": [],
+    "file": "tenants.css"
+}
